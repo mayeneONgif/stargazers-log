@@ -1,2 +1,2 @@
-# stargazers-log
-Registro de repositorios con estrella
+# mayeneONgif
+soy una persona estudiosa
